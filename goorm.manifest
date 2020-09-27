@@ -1,1 +1,2 @@
 {"storage":"container","type":"blank","detailedtype":"empty","author":"32615702_b3m3s_github","name":"git_test","description":"원하는 내용 아무거나","date":"2020/9/26 13:29:52","plugins":{"goorm.plugin.blank":[{"plugin.blank.build_command":"","plugin.blank.run_as":"console","plugin.blank.run_command":"","plugin.blank.stop_command":""}]},"is_user_plugin":false,"author_email":"riyenas0925@gmail.com","author_name":"riyenas0925","ignore_patterns":[],"project_domain":[{"id":"32615702_b3m3s_github","url":"git-test-zlmar.run.goorm.io","port":"80"}],"visibility":2}
+
